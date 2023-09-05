@@ -1,0 +1,7 @@
+Process 468: tudo sussa ;)resultado:
+funcoes exec(): 2
+fork() e pid: 2
+waitpid() e WEXITSTATUS: 1
+dup2(): 0
+
+TOTAL: 5/8
